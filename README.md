@@ -1,4 +1,4 @@
 # Sara
 Virtual Assisstant
 
- This is my inhouse project on Virtual Assisstant. She interacts with user using voice actions and does small operations like play music, etc. Project still under development. Many new features yet to come.
+An inhouse project on Personal Virtual Assisstant, Sara. She will interact with you using voice actions and does some operations like playing a song for you and so many other tasks. Sara is still under development. Adding many new features to Sara to interact with you better.
